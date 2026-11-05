@@ -2,14 +2,6 @@ Hi 👋 I'm Vandana K
 
  7th Semester Computer Science Engineering Student  
  Interested in Machine Learning, SDN and Security  
-
-
-<p align="center">
- 
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Systems%20%7C%20Research-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Engineering%20Student-success?style=for-the-badge"/>
-</p>
-
 Technical Skills
 
 Programming Languages
