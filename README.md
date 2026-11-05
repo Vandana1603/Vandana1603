@@ -2,9 +2,7 @@ Hi 👋 I'm Vandana K
 
  7th Semester Computer Science Engineering Student  
  Interested in Machine Learning, SDN and Security  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+AI+%26+Scientific+Computing;Research+Driven+Engineering;Learning+by+Building+Real+Systems" />
-</p>
+
 
 <p align="center">
  
