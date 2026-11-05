@@ -15,9 +15,7 @@ Hi 👋 I'm Vandana K
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vandana1603">
-    <img src="https://img.shields.io/github/followers/Vandana1603?label=Followers&style=for-the-badge&color=blue"/>
-  </a>
+ 
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Systems%20%7C%20Research-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Engineering%20Student-success?style=for-the-badge"/>
 </p>
