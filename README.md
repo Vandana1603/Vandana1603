@@ -43,14 +43,13 @@ Systems & Tools
 <img src="https://img.shields.io/badge/OpenFlow-SDN-purple?style=for-the-badge"/>
 </p>
 
-GitHub Statistics
+Connect With Me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vandana1603&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vandana1603&layout=compact&theme=tokyonight&hide_border=true"/>
+<p>
+<a href="https://github.com/Vandana1603">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vandana1603&theme=tokyonight&hide_border=true"/>
-</p>
-
